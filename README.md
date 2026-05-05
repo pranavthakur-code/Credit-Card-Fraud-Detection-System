@@ -1,5 +1,8 @@
 # 💳 Credit Card Fraud Detection System
 
+# 🌐 Live Demo
+🔗 https://credit-card-fraud-detector-ml.streamlit.app/
+
 ## 📌 Overview
 
 This project is a machine learning-based fraud detection system that identifies whether a transaction is legitimate or fraudulent.
